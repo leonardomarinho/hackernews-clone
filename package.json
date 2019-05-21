@@ -1,0 +1,27 @@
+{
+  "name": "hackernews-clone",
+  "version": "1.0.0",
+  "description": "A HackerNews clone using Node.js and GraphQL developed for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardomarinho/hackernews-clone.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "graphql"
+  ],
+  "author": "Leonardo Marinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardomarinho/hackernews-clone/issues"
+  },
+  "homepage": "https://github.com/leonardomarinho/hackernews-clone#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
+}
